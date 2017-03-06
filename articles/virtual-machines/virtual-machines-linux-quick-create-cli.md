@@ -20,7 +20,7 @@ ms.openlocfilehash: fd75ab9a37dfc75679427a16c3ecb36adb1c9925
 
 
 ---
-# <a name="create-a-linux-vm-on-azure-by-using-the-cli"></a>使用 CLI 在 Azure 上创建 Linux VM
+# <a name="create-a-linux-vm-on-azure-by-using-the-cli"></a>使用 CLI 在 Azure 上面创建 Linux VM
 本文说明如何使用 Azure 命令行接口 (LI ) 中的 `azure vm quick-create` 命令在 Azure 上快速部署 Linux 虚拟机 (VM)。 `quick-create` 命令可将 VM 部署在基本且安全的基础结构内，可让你快速构建原型或测试概念。 本文需要以下条件：
 
 * 一个 Azure 帐户（[获取免费试用版](https://azure.microsoft.com/pricing/free-trial/)）。
